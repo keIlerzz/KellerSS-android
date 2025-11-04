@@ -19,6 +19,7 @@ $amarelobg = "\e[43m";
 $lamarelobg = "\e[103m";
 $vermelhobg = "\e[101m";
 $cinza = "\e[37m";
+hf
 $ciano = "\e[36m";
 $bold   = "\e[1m";
 function keller_banner(){
@@ -2603,4 +2604,5 @@ escolheropcoes:
             die();
         }
       }
+
 ?>
