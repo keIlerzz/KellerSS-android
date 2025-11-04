@@ -33,7 +33,7 @@ function keller_banner(){
                         | |/ / | __|| |   | |   | __|| _ \  
                         ' <  | _| | |__ | |__ | _| |   /  
                         _|\_\ |___||____||____||___||_|_\  
-PAULA PUTA
+
 
 
                     \e[36m{C} Coded By - KellerSS | Credits for Sheik                                   
@@ -2605,3 +2605,4 @@ escolheropcoes:
       }
 
 ?>
+
