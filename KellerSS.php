@@ -1951,11 +1951,11 @@ escolheropcoes:
 
                 echo $bold . $branco . "\n\n\t Obrigado por compactuar por um cenário limpo de cheats.\n";
                 echo $bold . $branco . "\t                 Com carinho, Keller...\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n";
-        } elseif ($opcaoscanner == 's' || $opcaoscanner == 'S') {
+{ } elseif ($opcaoscanner == 's' || $opcaoscanner == 'S') {}
             echo "\n\n\t Obrigado por compactuar por um cenário limpo de cheats.\n\n";
-            die();
-        }
-      }
+            die(); 
+        
+
 ?>
                           
             
