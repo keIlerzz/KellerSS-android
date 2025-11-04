@@ -1497,6 +1497,8 @@ escolheropcoes:
         } elseif ($opcaoscanner == "2") {
             system("clear");
             keller_banner();
+        }
 ?>
+
 
 
