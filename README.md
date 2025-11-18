@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <em>Pensado e realizado em prol da comunidade de FreeFire, por KellerSS.</em>
+  <em>Pensado e realizado em prol da comunidade de FreeFire, por KellerSS e AucerolaSS e SheikSS.</em>
 </p>
 
 
